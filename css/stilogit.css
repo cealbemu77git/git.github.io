@@ -11,3 +11,9 @@ header,.main,aside,footer{
 	margin: 20px auto;
 
 }
+h1{
+	font-size:25px;
+}
+section p{
+	font-size:20px;
+}
